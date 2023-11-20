@@ -1,0 +1,160 @@
+,category,product,prompt,reviews,review_qty,token_qty,response
+0,Home Entertainment,Google Chromecast HDMI Streaming Media Player,"Please analyze the provided reviews of the product 'Google Chromecast HDMI Streaming Media Player'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Google Chromecast HDMI Streaming Media Player
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","Chromecast costs $29.
+There is the occasional lag when videos
+This one of the best purchases I
+For now, we don't have
+The software update to Chromecast messed",5,223,Resumo não encontrado.
+1,PC,"Kindle Fire HDX 7"", HDX Display (Previous Generation - 3rd)","Please analyze the provided reviews of the product 'Kindle Fire HDX 7"", HDX Display (Previous Generation - 3rd)'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Kindle Fire HDX 7"", HDX Display (Previous Generation - 3rd)
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","""I've really enjoyed my kind
+i love my kindle for reading
+This is the first small tablet I
+This kindle delivered everything it promised
+""I ordered on Tuesday and it",5,244,"Product: Kindle Fire HDX 7"", HDX Display (Previous Generation - 3rd)
+Summary: The Kindle Fire HDX 7"" is a great device for reading books and watching videos. The screen is very clear and the battery life is excellent. The only downside is that the speakers are not very loud, but overall I'm very satisfied with my purchase.
+Tags: #GreatDevice #ClearScreen #ExcellentBatteryLife #SatisfiedCustomer #LoudSpeakers"
+2,PC,"Fire HD 7, 7"" HD Display, Wi-Fi, 8 GB","Please analyze the provided reviews of the product 'Fire HD 7, 7"" HD Display, Wi-Fi, 8 GB'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Fire HD 7, 7"" HD Display, Wi-Fi, 8 GB
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","Easy to set up and use,
+Big enough screen, great reader,
+Make sure you protect your contacts and
+CNN.com will feature iRep
+The Citron is small, fast",5,241,"Product: Fire HD 7, 7"" HD Display, Wi-Fi, 8 GB
+Summary: The Fire HD 7 is a user-friendly device with a clear and bright screen, great battery life, and good sound quality. It's easy to set up and use, making it a great reader. However, it lacks waterproof capabilities, which may be a downside for some users. The price is reasonable, and overall, it's a solid choice for those looking for a reliable tablet.
+Tags: #EasyToUse #ClearScreen #GoodBatteryLife #GoodSoundQuality #ReasonablePrice #NotWaterproof"
+3,Electronics,Panasonic ErgoFit In-Ear Earbud Headphone,"Please analyze the provided reviews of the product 'Panasonic ErgoFit In-Ear Earbud Headphone'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Panasonic ErgoFit In-Ear Earbud Headphone
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","CNN.com will feature iRep
+I didn't care for these personally
+When they work the sound quality is
+ Excellent earphones for the $$$
+The headphones are an amazing value.",5,231,Resumo não encontrado.
+4,Toys,Cards Against Humanity,"Please analyze the provided reviews of the product 'Cards Against Humanity'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Cards Against Humanity
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","The only downside is that you'll
+Fantastic game but the cardboard
+You can not go wrong with this
+This is a very good party game
+Purchased for my sister for",5,212,"Product: Cards Against Humanity
+Summary: Cards Against Humanity is a fantastic party game that is perfect for any gathering. The cardboard quality is excellent, and it's a great gift for any occasion. However, some may find the content to be too risqué.
+Tags: #ExcellentPartyGame #HighQualityCardboard #GreatGift #RisquéContent #FantasticFun
+```"
+5,PC,Kindle Fire (Previous Generation - 1st),"Please analyze the provided reviews of the product 'Kindle Fire (Previous Generation - 1st)'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Kindle Fire (Previous Generation - 1st)
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","Good battery life, bright screen.
+I love everything about it, had
+Great product. Would recommend to anyone
+Love the size of the screen and
+This is an all around let down",5,229,Resumo não encontrado.
+6,PC,"Kindle Paperwhite, 6"" High-Resolution Display (212 ppi) with Built-in Light, Wi-Fi","Please analyze the provided reviews of the product 'Kindle Paperwhite, 6"" High-Resolution Display (212 ppi) with Built-in Light, Wi-Fi'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Kindle Paperwhite, 6"" High-Resolution Display (212 ppi) with Built-in Light, Wi-Fi
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","CNN.com will feature iRep
+Mr. Wonderful has been a
+I have macular degeneration and
+Great device. Everything I thought it
+""I knew nothing about the kind",5,254,Resumo não encontrado.
+7,PC,SanDisk Ultra microSDHC Card Plus Adapter,"Please analyze the provided reviews of the product 'SanDisk Ultra microSDHC Card Plus Adapter'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: SanDisk Ultra microSDHC Card Plus Adapter
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","It formats the exFAT and
+The Sandisk Sansa Clip+
+Great price for a great price
+I purchased the 1 Gig card for
+""I purchased this disk to use",5,226,Resumo não encontrado.
+8,PC,Fire HD 6,"Please analyze the provided reviews of the product 'Fire HD 6'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Fire HD 6
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","""It was. perfect....
+The kids free time app is exactly
+Without a microSD slot for additional
+""It's so easy to use
+CNN.com will feature iRep",5,213,Resumo não encontrado.
+9,PC,"Kindle Fire HD 7"", Dolby Audio, Dual-Band Wi-Fi","Please analyze the provided reviews of the product 'Kindle Fire HD 7"", Dolby Audio, Dual-Band Wi-Fi'. 
+          Create a concise summary that encapsulates the key opinions and sentiments expressed in these reviews. 
+         The summary should be structured as if it's a single comprehensive review of the product. 
+         The summary should mimic the style and tone of a customer reviews, making it relatable and genuine. 
+         Also, provide a list of 5 tags that represent what the customers are saying about the product, give the balance between positive and negative aspects about the product, the tags have this format: #TagName.         Format your response as follows: 
+             response:[ 
+             Product: Kindle Fire HD 7"", Dolby Audio, Dual-Band Wi-Fi
+             Summary: [Your summary here]
+             Tags: #tag1 #tag2 #tag3 #tag4 #tag5 ] 
+         List of reviews: 
+","Do not buy used stuff from this
+I love my new Kindle. So
+""I HAVE A TABLET BUT
+It's lightweight and durable, the
+Not sure what the special offers are",5,240,"Product: Kindle Fire HD 7"", Dolby Audio, Dual-Band Wi-Fi
+Summary: I recently purchased a Kindle Fire HD 7"" and I'm really happy with my purchase. The screen is great, the battery life is amazing, and the sound quality is very good thanks to the Dolby Audio. It's lightweight and durable, making it a perfect tablet for on-the-go use. However, I'm not sure if I'll be able to use the special offers that come with the device, as they are not very clear. Overall, I would definitely recommend this product to anyone looking for a good tablet at a great price.
+Tags: #GreatScreen #AmazingBatteryLife #GoodSoundQuality #LightweightAndDurable #UnclearSpecialOffers"
